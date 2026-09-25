@@ -1,24 +1,18 @@
-### Hi there 👋
+# Hi, I'm Ragavan 👋
 
-<!--
-**RagavanPV/RagavanPV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a builder and architect focused on designing and building scalable systems. I enjoy system design, backend engineering, and working through the tradeoffs that make software reliable as it grows. Most of my cloud work is with AWS.
 
-Here are some ideas to get you started:
+I like experimenting with new ideas and technologies. Lately, I've been exploring what I can build with a Raspberry Pi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://github.com/RagavanPV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RagavanPV&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="RagavanPV's GitHub Stats" />
-</a>
+## What I'm working on
 
-<br>
-<a href="https://github.com/RagavanPV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RagavanPV&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+- **[Markt](https://github.com/RagavanPV/Markt)** — a commerce platform I'm using to explore backend and distributed systems design. It's currently in the planning stage, with work focused on architecture decisions and the PostgreSQL data model.
+
+## Areas of interest
+
+- System design and backend architecture
+- Scalable and distributed systems
+- AWS and cloud infrastructure
+- Raspberry Pi and hardware experiments
+
+You can explore my projects in the [repositories tab](https://github.com/RagavanPV?tab=repositories).
